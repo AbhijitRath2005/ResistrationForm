@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ResistrationForm/static/css/main.e3979afe.css",
+    "main.js": "/ResistrationForm/static/js/main.e4ff87ef.js",
+    "index.html": "/ResistrationForm/index.html",
+    "main.e3979afe.css.map": "/ResistrationForm/static/css/main.e3979afe.css.map",
+    "main.e4ff87ef.js.map": "/ResistrationForm/static/js/main.e4ff87ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3979afe.css",
+    "static/js/main.e4ff87ef.js"
+  ]
+}
